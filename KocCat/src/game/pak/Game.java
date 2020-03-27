@@ -1,5 +1,11 @@
 package game.pak;
-
+/*
+ * AUTHOR: Walid Baroudi
+ * Computer Engineering Student at Koc University
+ * E-mail: wbaroudi18@ku.edu.tr
+ * LinkedIn: linkedin.com/in/walid-baroudi/
+ * 
+ */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
